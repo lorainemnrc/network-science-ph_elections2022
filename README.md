@@ -1,6 +1,7 @@
 ![fig6](https://github.com/lorainemnrc/network-science-ph_elections2022/assets/23328647/ece2e4c7-f0ee-4d93-8aaf-0a33fdadf387)
 
 <h1 align="center">Polarized Opinions and Echo Chambers: <br> A Network Analysis of 2022 PH Presidential Election Tweets</h1>
+
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
 <p align="justify"> &emsp;
