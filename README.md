@@ -13,7 +13,8 @@
 <p align="justify"> &emsp;
   This project uses BKManabat's dataset for his sentiment analysis of the tweets during the 2022 Philippine Presidential Elections. This includes the username of the tweet’s author, the posting date and time, as well as its sentiment. The sentiment analysis was done using the XLM-RoBERTa base model, which was trained on approximately 198 million tweets and fine-tuned in 8 different languages.
 </p>
-  If you are interested in the results of this sentiment analysis, you can find them on his Github repository through this ![link](https://github.com/BKManabat/2022-presidential-sentiment-analysis-ph/tree/main#results).
+
+  If you are interested in the results of this sentiment analysis, you can find them on his Github repository through this [`link`](https://github.com/BKManabat/2022-presidential-sentiment-analysis-ph/tree/main#results).
 
 ![image](https://github.com/lorainemnrc/network-science-ph_elections2022/assets/23328647/7884c7f8-3a88-4a47-b24f-f3134d8e540e)
 
